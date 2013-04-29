@@ -6,5 +6,7 @@ Muestra de la implementación de wordpress, utilizando como base el tema twentyt
 Sitios desarrollados en WP activos actualmente:
 
 www.activatepentasecurity.cl
+
 www.pansemilla.cl
+
 www.edicionesdelalumbre.cl
