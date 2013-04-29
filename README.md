@@ -1,4 +1,4 @@
-wordpress_codelco
+wordpress_varios
 =================
 
 Muestra de la implementación de wordpress, utilizando como base el tema twentyten
